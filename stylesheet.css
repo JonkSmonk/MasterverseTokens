@@ -36,13 +36,6 @@ section{
 	overflow: auto;
 	height:  100%;
 }
-
-header{
-}
-div{
-	background-image: url('backgrnd.jpg');
-  	background-repeat: no-repeat;
-}
 main{
 	font-family: Roboto;
 	padding:  10px;
